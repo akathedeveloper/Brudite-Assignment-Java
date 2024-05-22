@@ -7,7 +7,7 @@ public class Main {
     Students s5=new Students("Piyush Agarwal",101,"adhirajsingh@gmail.com",98313941);
     Students s6=new Students("Disha Agarwal",101,"adhirajsingh@gmail.com",98313941);
     Students s7=new Students("Jatin Choudhary",101,"adhirajsingh@gmail.com",98313941);
-    Students s8=new Students("",101,"adhirajsingh@gmail.com",98313941);
+    Students s8=new Students("Akshat Jain",101,"adhirajsingh@gmail.com",98313941);
     Students s9=new Students("Adhiraj Singh",101,"adhirajsingh@gmail.com",98313941);
     Students s10=new Students("Adhiraj Singh",101,"adhirajsingh@gmail.com",98313941);
     System.out.println(s1.toString());
