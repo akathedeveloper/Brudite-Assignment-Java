@@ -31,10 +31,35 @@ public class Main {
     Trainer t2= new Trainer("Ritu Ma'am",2,"ritu@gmail.com",639091,techStackList);
     Trainer t3= new Trainer("Hridesh Sir",3,"hridesh@gmail.com",704390,techStackList);
 
-    Assignment a1 = new Assignment(10,"Arrays",);
-    Assignment a2 = new Assignment(11,"Strings",);
-    Assignment a3 = new Assignment(12,"Collection",);
-    Assignment a4 = new Assignment(13,"API's",);
+    Question q1=new Question();
+    Question q2=new Question();
+    Question q3=new Question();
+    Question q4=new Question();
+
+
+    Question q1=new Question();
+    Question q2=new Question();
+    Question q3=new Question();
+    Question q4=new Question();
+
+
+    Question q1=new Question();
+    Question q2=new Question();
+    Question q3=new Question();
+    Question q4=new Question();
+
+
+    Question q1=new Question();
+    Question q2=new Question();
+    Question q3=new Question();
+    Question q4=new Question();
+
+
+
+    Assignment a1 = new Assignment(10,"Arrays","","2024-05-15",);
+    Assignment a2 = new Assignment(11,"Strings","","2024-05-20",);
+    Assignment a3 = new Assignment(12,"Collection","","2024-05-25",);
+    Assignment a4 = new Assignment(13,"API's","","2024-05-30",) ;
 
 
 
